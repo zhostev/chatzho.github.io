@@ -33,7 +33,7 @@ jobs:
           version: latest
       - uses: actions/checkout@v3
         with:
-          repository: Yidadaa/Issue-Blog-With-Github-Action
+          repository: vinsvison/chatzho.github.io
           ref: source
       - name: Build
         env:

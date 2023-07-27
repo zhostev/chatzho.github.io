@@ -4,24 +4,24 @@
 
 let mainConfig = {
   vssueConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "vinsvison",
+    repo: "chatzho.github.io",
     clientId: "2783a4b752f56c0ed912",
     clientSecret: "c8d9116fcade901567ff34aa1fb09216731683a3"
   },
 
   repoConfig: {
-    owner: "Yidadaa",
-    repo: "Issue-Blog-With-Github-Action",
+    owner: "vinsvison",
+    repo: "chatzho.github.io",
     pushBranch: "master",
-    email: "yidadaa@qq.com",
+    email: "zhaoshijun@yeah.net",
     filterUsers: []
   },
 
   title: "YiFei Zhang's Blog",
   description: "在这里了解我的一切，对编程的热爱永不停歇。",
   customDomain: "",
-  base: "/Issue-Blog-With-Github-Action/",
+  base: "/chatzho.github.io/",
 
   slogan: {
     main: "有逻辑的灵魂，",
@@ -32,15 +32,15 @@ let mainConfig = {
     nav: [
       {
         name: "首页",
-        link: "/Issue-Blog-With-Github-Action"
+        link: "/chatzho.github.io"
       },
       {
         name: "Github",
-        link: "https://github.com/Yidadaa"
+        link: "https://github.com/vinsvison"
       },
       {
         name: "CV",
-        link: "/Issue-Blog-With-Github-Action/cv.html"
+        link: "/chatzho.github.io/cv.html"
       }
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
